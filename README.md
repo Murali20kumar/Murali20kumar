@@ -10,7 +10,7 @@
 
 ### ✅ Languages
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/ style="borderradius:50%">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -41,9 +41,14 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Murali20kumar&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murali20kumar&layout=compact&theme=tokyonight" height="160px"/>
 </p>
 
+---
+## 💡 Most Used Languages
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murali20kumar&layout=compact&theme=tokyonight" height="160px"/>
+</p>
 ---
 
 ## 🏆 Achievements
