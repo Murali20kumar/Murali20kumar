@@ -4,10 +4,6 @@
   🚀 Aspiring <strong>Java Developer</strong> | Frontend Enthusiast | Problem Solver  
 </p>
 
-<p align="center">
-  <img src="https://i.gifer.com/1tAZ.gif" width="400" alt="coding gif"/>
-</p>
-
 ---
 
 ## 🔥 Tech Skills
