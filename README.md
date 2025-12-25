@@ -2,9 +2,20 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=800&lines=🎮+PLAYER+NAME:+Murali+Kumar;Web+%26+Mobile+Developer;UI+Designer;React+Native+%7C+Expo+%7C+TypeScript" />
 </h1>
 
+<!-- GAMER HEADER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzV6ZHFjNnE5ZHNpY2J0d3J0N2V4a3BzMnd6aHk3N3M5c2Z0ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="420"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=JAVA%20DEVELOPER&fontSize=40&fontColor=00BFFF&fontAlignY=40&animation=fadeIn"
+  />
 </p>
+
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&pause=800&color=00BFFF&center=true&vCenter=true&width=750&lines=👋+Hi,+I'm+Murali+Kumar;Java+Developer;Web+%26+Mobile+Developer;UI+Designer;Problem+Solver"
+  />
+</p>
+
 
 ---
 
