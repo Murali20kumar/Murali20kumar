@@ -16,7 +16,7 @@
 
 ---
 
-## 🎮 About Me (Game Intro Style)
+## 🎮 About Me 
 
 🧠 **Role:** Java Developer | Web & Mobile Developer | UI Designer  
 🎯 **Focus:** Clean UI, smooth UX & scalable applications  
