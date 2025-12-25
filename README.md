@@ -3,7 +3,7 @@
 <!-- ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=☕%20JAVA%20DEVELOPER&fontSize=42&fontColor=00BFFF&fontAlignY=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=☕%20JAVA%20DEVELOPER&fontSize=42&fontColor=00BFFF&fontAlignY=40&animation=fadeIn" alt="Header" />
 </p>
 
 <!-- ===================== -->
@@ -11,7 +11,7 @@
 <!-- ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&pause=900&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi,+I'm+Murali+Kumar;Java+Developer;Web+%26+Mobile+Developer;UI+Designer;Problem+Solver" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&pause=900&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi,+I'm+Murali+Kumar;Java+Developer;Web+%26+Mobile+Developer;UI+Designer" alt="Typing animation"/>
 </p>
 
 ---
@@ -32,34 +32,44 @@
 
 ### ☕ Backend
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=ED8B00"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=316192"/>
+  <!-- Java -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="64" height="64" style="border-radius:50%;background:#ED8B00;padding:8px;margin:6px;"/>
+  <!-- PostgreSQL -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="64" height="64" style="border-radius:50%;background:#316192;padding:8px;margin:6px;"/>
 </p>
 
 ---
 
 ### 🌐 Web Development
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6"/>
-  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6"/>
+  <!-- HTML5 -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="64" height="64" style="border-radius:50%;background:#E34F26;padding:8px;margin:6px;"/>
+  <!-- CSS3 -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="64" height="64" style="border-radius:50%;background:#1572B6;padding:8px;margin:6px;"/>
+  <!-- JavaScript -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="64" height="64" style="border-radius:50%;background:#F7DF1E;padding:8px;margin:6px;"/>
+  <!-- TypeScript -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="64" height="64" style="border-radius:50%;background:#3178C6;padding:8px;margin:6px;"/>
 </p>
 
 ---
 
 ### 📱 Mobile Development
 <p align="center">
-  <img src="https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A"/>
-  <img src="https://img.shields.io/badge/Expo-000?style=for-the-badge&logo=expo&logoColor=white&labelColor=000020"/>
+  <!-- React Native (use react icon) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="64" height="64" style="border-radius:50%;background:#20232A;padding:8px;margin:6px;"/>
+  <!-- Expo (no devicon) - use expo logo from simpleicons CDN -->
+  <img src="https://cdn.simpleicons.org/expo/000000" alt="Expo" width="64" height="64" style="border-radius:50%;background:#000020;padding:8px;margin:6px;"/>
 </p>
 
 ---
 
 ### 🛠 Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032"/>
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
+  <!-- Git -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="64" height="64" style="border-radius:50%;background:#F05032;padding:8px;margin:6px;"/>
+  <!-- GitHub -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="64" height="64" style="border-radius:50%;background:#181717;padding:8px;margin:6px;"/>
 </p>
 
 ---
@@ -76,8 +86,8 @@
 ## 📊 Player Stats (Gamer HUD)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Murali20kumar&show_icons=true&theme=tokyonight&icon_color=00BFFF" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murali20kumar&layout=compact&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Murali20kumar&show_icons=true&theme=tokyonight&icon_color=00BFFF" height="160px" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murali20kumar&layout=compact&theme=tokyonight" height="160px" alt="Top languages"/>
 </p>
 
 ---
@@ -94,19 +104,20 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/murali-kumar-78b044306" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  <a href="https://www.linkedin.com/in/murali-kumar-78b044306" target="_blank" rel="noopener">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="48" height="48" style="border-radius:50%;background:#ffffff;padding:8px;margin:6px;"/>
   </a>
-  <a href="mailto:beastmurali56@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=red"/>
+  <a href="mailto:beastmurali56@gmail.com" target="_blank" rel="noopener">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="48" height="48" style="border-radius:50%;background:#ffffff;padding:8px;margin:6px;"/>
   </a>
-  <a href="https://leetcode.com/u/MK26112002/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=orange"/>
+  <a href="https://leetcode.com/u/MK26112002/" target="_blank" rel="noopener">
+    <!-- LeetCode icon via simpleicons -->
+    <img src="https://cdn.simpleicons.org/leetcode/F97A32" alt="LeetCode" width="48" height="48" style="border-radius:50%;background:#ffffff;padding:8px;margin:6px;"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=00FFC4&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+⭐;Game+Saved...+Progress+Continues!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=00FFC4&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+⭐;Game+Saved...+Progress+Continues!" alt="Footer typing animation"/>
 </p>
