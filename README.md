@@ -85,10 +85,10 @@
 
 ## 📊 Player Stats (Gamer HUD)
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Murali20kumar&show_icons=true&theme=tokyonight&icon_color=00BFFF" height="160px" alt="GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murali20kumar&layout=compact&theme=tokyonight" height="160px" alt="Top languages"/>
-</p>
+</p> -->
 
 ---
 
