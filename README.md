@@ -118,6 +118,6 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=00FFC4&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+⭐;Game+Saved...+Progress+Continues!" alt="Footer typing animation"/>
-</p>
+</p> -->
